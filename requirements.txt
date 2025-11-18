@@ -1,0 +1,12 @@
+geopandas>=0.12
+pandas>=1.4
+numpy>=1.21
+shapely>=2.0
+rtree
+fiona
+pyproj
+requests
+overpy
+matplotlib
+folium
+geopy
