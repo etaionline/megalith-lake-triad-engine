@@ -1,0 +1,99 @@
+# ChatGPT Consolidated Chat History
+
+## Source Files
+- pasted-text-2025-11-14T01-24-39.txt
+- pasted-text-2025-11-17T23-53-23.txt
+- pasted-text-2025-11-18T00-13-22.txt
+- pasted-text-2025-12-10T22-32-15.txt
+
+---
+
+Chat GPT
+
+Fully Operational Marketplace Trend Analyzer
+
+Objective:
+Build a fully functional, hosted dashboard that discovers trending products across Google Trends, eBay Sold Listings, Amazon Best Sellers, TikTok Shop, Reddit, and X/Twitter. Provide buy/sell recommendations, suggested price, predicted sell time, velocity scores, and composite trend scores. The dashboard must be dark-mode, fully responsive, interactive, with filters, timeline sliders, favorites/watchlist, pop-up product panels, and export functionality (CSV/Excel/PNG/PDF).
+
+Requirements:
+
+Backend
+
+Modular scrapers for each platform (Google Trends, eBay, Amazon, TikTok, Reddit/X)
+
+Scoring module combining trend, velocity, demand, and virality into a final score
+
+Node.js/Express API exposing JSON endpoints for products and metrics
+
+Anti-bot measures: random headers, delays, optional proxy rotation
+
+Database: PostgreSQL (Supabase), store historical data 1–2 years
+
+Frontend
+
+React.js / Next.js dashboard with dark mode and accent colors
+
+Interactive charts (Plotly.js/D3.js)
+
+Filters by category, trend score, velocity, price range, virality
+
+Timeline sliders for historical trends
+
+Pop-up side panel for full product details
+
+Favorites/watchlist system
+
+Toggle summary/detailed views
+
+Color-coded indicators for product performance
+
+Compare-products mode
+
+Search bar and basic keyboard shortcuts
+
+Export buttons for CSV/Excel/PNG/PDF
+
+Scoring & Recommendations
+
+Trend Score: Search volume + social mentions
+
+Velocity Score: Sales speed + TikTok virality
+
+Demand Strength: Sell-through + competition
+
+Virality Score: Social mentions + TikTok views
+
+Final Score = weighted composite
+
+Recommendation labels: Buy / Watch / Avoid
+
+Suggested price, predicted sell time, optional confidence score
+
+Deployment
+
+Backend hosted on Render/Fly.io
+
+Frontend hosted on Vercel
+
+Include Dockerfile, GitHub Actions workflows for daily updates
+
+Include README.md, DATA_SCHEMA.md, UI_GUIDE.md
+
+Testing & Error Handling
+
+Mock API data for all platforms
+
+Retry failed scraper requests
+
+API gracefully returns cached data if scrapers fail
+
+Dashboard shows "No data" states if needed
+
+Include unit, integration, and E2E test scaffolding
+
+Deliverable Instructions for K2:
+"Generate the full project codebase in a modular structure with separate scrapers, scoring module, Node.js API, React/Next.js frontend, deployment files, and documentation. Use mock data for platforms requiring API keys. Include all interactive features: charts, filters, timeline sliders, side panels, favorites/watchlist, exports, and dark-mode UI. Provide working starter code for scrapers, scoring, API, and frontend with responsive design. Include README, setup instructions, and legal notes for API usage."
+
+---
+
+[Additional chat content continues...]
