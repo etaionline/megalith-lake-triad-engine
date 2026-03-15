@@ -1,0 +1,9 @@
+name,type,description
+triad_pipeline.py,Main Pipeline,Full spatial analysis pipeline
+test_mediterranean_hypothesis.py,Test,Mediterranean hypothesis testing
+global_expansion_strategy.py,Expansion,Global pattern expansion
+motif_visualization_generator.py,Visualization,Motif pattern visualization
+overpass_fetch.py,Data Collection,OSM data fetching
+paleo_integration.py,Analysis,Paleoshoreline integration
+folium_map.py,Visualization,Interactive map generation
+arctic_enhancement_analysis.py,Analysis,Arctic region enhancement

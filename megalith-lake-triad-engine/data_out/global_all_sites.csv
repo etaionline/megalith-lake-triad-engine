@@ -1,0 +1,30 @@
+name,country,lat,lon,type,period,size,region
+Ħaġar Qim,Malta,35.826,14.416,Temple,3600-2500 BCE,28.0,Europe
+Carnac - Menec,France,47.632,-3.063,Menhirs,4000-3000 BCE,120.0,Europe
+Dolmen de Menga,Spain,37.033,-4.112,Dolmen,3800-3500 BCE,27.0,Europe
+Dolmen da Orca,Portugal,40.267,-6.383,Dolmen,4000-3000 BCE,25.0,Europe
+Nuraghe Santu Antine,Italy,40.417,8.75,Nuraghe,1500-500 BCE,32.0,Europe
+Knossos Palace,Greece,35.298,25.165,Palace Complex,1900-1450 BCE,85.0,Europe
+Stonehenge,United Kingdom,51.179,-1.826,Stone Circle,3100-1600 BCE,100.0,Europe
+Avebury,United Kingdom,51.428,-1.853,Stone Circle,3700-2500 BCE,120.0,Europe
+Castlerigg,United Kingdom,54.6,-3.136,Stone Circle,3000-2000 BCE,50.0,Europe
+Callanish Stones,United Kingdom,58.205,-6.743,Stone Circle,2800-2000 BCE,80.0,Europe
+Silbury Hill,United Kingdom,51.414,-1.827,Mound,2500-2300 BCE,75.0,Europe
+Alby Stone Circle,Sweden,62.483,18.2,Stone Circle,2000-500 BCE,35.0,Europe
+Svartedalen,Norway,62.733,8.883,Stone Circle,2000-500 BCE,40.0,Europe
+Goseck Circle,Germany,51.2,11.883,Woodhenge,4900-4700 BCE,60.0,Europe
+Zálavár,Hungary,46.9,16.733,Enclosure,4000-3500 BCE,90.0,Europe
+Sahara Megaliths,Algeria,25.0,8.0,Stone Circle,3000-1000 BCE,45.0,Africa
+Meroe,Sudan,16.933,33.733,Pyramid Complex,800 BCE - 300 CE,120.0,Africa
+Loyangalani,Kenya,3.217,36.983,Stone Circle,2000-1000 BCE,40.0,Africa
+Olorgesailie,Kenya,-1.567,36.45,Henge,4000-2000 BCE,80.0,Africa
+Great Zimbabwe,Zimbabwe,-20.267,30.933,Stone Complex,1100-1450 CE,200.0,Africa
+Mapungubwe,South Africa,-22.15,29.233,Stone Enclosure,1000-1300 CE,150.0,Africa
+Barabar Caves,India,25.0,85.0,Rock Cut,250-100 BCE,25.0,Asia
+Mahabalipuram,India,12.633,80.183,Rock Cut,650-750 CE,35.0,Asia
+Megalithic Sites,India,11.0,77.0,Dolmen,1000-500 BCE,20.0,Asia
+Hikkaduwa,Sri Lanka,6.033,80.1,Monolith,300-100 BCE,15.0,Asia
+Yamato-Ishibaru,Japan,34.583,135.833,Dolmen,500-700 CE,18.0,Asia
+Mekong Delta,Vietnam,10.5,106.0,Ceremonial Stones,500 BCE - 200 CE,30.0,Asia
+Angkor,Cambodia,13.412,103.867,Temple Complex,802-1431 CE,300.0,Asia
+Borobudur,Indonesia,-7.608,110.203,Temple Complex,780-850 CE,200.0,Asia

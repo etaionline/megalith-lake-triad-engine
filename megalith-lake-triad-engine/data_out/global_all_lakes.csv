@@ -1,0 +1,16 @@
+lake_name,lat,lon,area_km2,salinity_ppt,type,region
+Dead Sea,31.5,35.5,810,342,hyper_saline,Middle_East
+Lake Urmia,37.7,45.3,5200,200,hyper_saline,Middle_East
+Lake Van,38.5,43.0,3574,18,alkaline,Middle_East
+Lake Nasser,22.0,31.0,5250,180,freshwater,North_Africa
+Chott el Jerid,34.0,8.0,5700,300,hyper_saline,North_Africa
+Lake Eyre,-28.5,137.2,9690,230,hyper_saline,Australia
+Great Salt Lake,41.0,-112.0,4400,280,hyper_saline,North_America
+Lake Chad,13.0,14.0,15400,120,freshwater,Africa
+Lake Turkana,3.5,36.0,6405,3,freshwater,Africa
+Lake Victoria,1.0,33.0,68870,2,freshwater,Africa
+Caspian Sea,42.0,51.0,371000,13,saline,Asia
+Aral Sea,45.0,60.0,68480,10,saline,Asia
+Salar de Uyuni,-20.0,-67.0,10582,50,hyper_saline,South_America
+Salar de Atacama,-23.0,-68.0,3000,50,hyper_saline,South_America
+Lake Titicaca,-15.0,-70.0,8372,1,freshwater,South_America
