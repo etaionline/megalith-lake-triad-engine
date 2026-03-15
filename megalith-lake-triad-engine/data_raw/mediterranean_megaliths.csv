@@ -1,0 +1,9 @@
+site_name,latitude,longitude,site_type,estimated_size,period,confidence,region,notes
+Megalithic Temple of Malta,35.9128,14.5054,temple_complex,8,Neolithic,high,Mediterranean,"UNESCO World Heritage, Tarxien, Hal Saflieni"
+Carnac Stones,47.6333,-3.0333,menhir_alignment,7,Neolithic,high,Atlantic_Europe,"Menhir alignment, Menec, Kermario"
+Silbury Hill,51.4158,-1.8242,mound,9,Neolithic,high,Atlantic_Europe,Largest artificial mound in Europe
+Ring of Brodgar,58.9667,-3.2333,stone_circle,10,Neolithic,high,Atlantic_Europe,UNESCO World Heritage, Orkney
+Newgrange,53.6947,-6.4756,passage_tomb,8,Neolithic,high,Atlantic_Europe,UNESCO World Heritage, passage tomb
+Giant's Causeway,55.2408,-6.5118,natural_formation,6,Mesozoic,high,Atlantic_Europe,UNESCO World Heritage, geological
+Callanish Stones,58.2061,-6.7658,stone_circle,7,Neolithic,high,Atlantic_Europe,Stone circle, Callanish I, II, III
+Bryn Cader Faner,52.9333,-4.0833,stone_circle,5,Bronze Age,medium,Atlantic_Europe,Stone circle, burial chamber

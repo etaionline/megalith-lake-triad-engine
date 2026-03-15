@@ -1,0 +1,8 @@
+lake_name,latitude,longitude,area_km2,max_depth_m,salinity_ppt,type,confidence,region,formation_type,ancient_civilization,notes
+Dead Sea,31.5,35.5,810,306.0,342,hyper_saline,high,Middle_East,endoreic_basin,Ancient Israel/Judah,Lowest point on Earth, salt crystallization
+Lake Urmia,37.7,45.3,5200,16.0,200,hyper_saline,medium,Middle_East,endoreic_basin,Achaemenid/Sassanian,Dramatically shrinking, major environmental issue
+Lake Van,38.5,43.0,3574,451.0,18,alkaline,high,Middle_East,tectonic,Urartu/Assyrian,Ancient kingdom centers, largest lake in Turkey
+Lake Nasser (Lake Nubia),22.0,31.0,5250,90.0,180,freshwater,high,North_Africa,dam_reservoir,Ancient Nubia/Egypt,Artificial reservoir, but on ancient trade routes
+Chott el Jerid,34.0,8.0,5700,5.0,300,hyper_saline,medium,North_Africa,endoreic_basin,Carthaginian/Berber,Seasonal salt lake, ancient trade route
+Lake Eyre,-28.5,137.2,9690,1.5,230,hyper_saline,medium,Australia,endoreic_basin,Aboriginal,Large endoreic basin, seasonal flooding
+Great Salt Lake,41.0,-112.0,4400,13.0,280,hyper_saline,high,North_America,remnant_lake,Ute/Numic,Remnant of ancient Lake Bonneville
